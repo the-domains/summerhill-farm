@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Welcome to Summerhill Farm - a summer tradition for 30\nyears.\_ Experience the charm of\_ our eight specialty shops and\ndiscover our distinctive clothing, unique home accessories, specialty food and\ntoys.\_ Let us help you find the perfect gift for you or a friend. It's a\nfun day out with family and friends!"
-datePublished: '2016-03-22T21:56:28.570Z'
-dateModified: '2016-03-22T21:54:18.046Z'
+datePublished: '2016-03-22T21:58:27.648Z'
+dateModified: '2016-03-22T21:56:36.714Z'
 title: Summerhill Farm
 author: []
 sourcePath: _posts/2016-03-22-summerhill-farm.md
