@@ -5,25 +5,25 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: undefined
-datePublished: '2016-03-22T22:18:27.791Z'
-dateModified: '2016-03-22T22:18:06.456Z'
+description: "The StableThe Stable is the place to find unique North Woods decorative items.\_ Discover our pottery, candles, calendars, stationery, throws, occasional furniture and ever-popular rug assortment, perfect for accessorizing your home or cabin.\_"
+datePublished: '2016-03-22T22:19:42.686Z'
+dateModified: '2016-03-22T22:18:35.736Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-22-undefined.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-22-undefined.md
-published: true
 url: undefined/index.html
 _type: Article
 
 ---
 **The Stable**  
-The Stable is the place to find unique North Woods decorative items.  Discover our pottery, candles, calendars, stationery, throws, occasional furniture and ever-popular rug assortment, perfect for accessorizing your home or cabin.   
+The Stable is the place to find unique North Woods decorative items.  Discover our pottery, candles, calendars, stationery, throws, occasional furniture and ever-popular rug assortment, perfect for accessorizing your home or cabin. 
 
 **The Treehouse**  
 Nestled in the trees, the Treehouse carries a distinctive collection of both casual and more sophisticated women's apparel and accessories. From something for the beach to an outfit for a wedding or graduation, we can help you find the outfit that will make you look and feel great!   A limited selection of plus size clothing now available.
