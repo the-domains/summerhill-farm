@@ -1,25 +1,25 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: "Welcome to Summerhill Farm - a summer tradition for 30\nyears.\_ Experience the charm of\_ our eight specialty shops and\ndiscover our distinctive clothing, unique home accessories, specialty food and\ntoys.\_ Let us help you find the perfect gift for you or a friend. It's a\nfun day out with family and friends!"
-datePublished: '2016-03-22T21:51:50.239Z'
-dateModified: '2016-03-22T21:51:17.586Z'
+datePublished: '2016-03-22T21:56:28.570Z'
+dateModified: '2016-03-22T21:54:18.046Z'
 title: Summerhill Farm
 author: []
+sourcePath: _posts/2016-03-22-summerhill-farm.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-22-summerhill-farm.md
-published: true
-url: summerhill-farm/index.html
-_type: Article
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7eb22788-29fd-4fcc-adaf-1066ca4ed4ad.jpg)
