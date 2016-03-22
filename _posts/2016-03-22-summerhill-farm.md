@@ -6,10 +6,12 @@ isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
-description: "Welcome to Summerhill Farm - a summer tradition for 30\nyears.\_ Experience the charm of\_ our eight specialty shops and\ndiscover our distinctive clothing, unique home accessories, specialty food and\ntoys.\_ Let us help you find the perfect gift for you or a friend. It's a\nfun day out with family and friends!"
-datePublished: '2016-03-22T21:58:27.648Z'
-dateModified: '2016-03-22T21:56:36.714Z'
-title: Summerhill Farm
+description: |-
+  Don't forget to take a break in the Sun Porch for lunch,
+  dessert treat, or a relaxing glass of wine on the scenic gazebo.
+datePublished: '2016-03-22T22:34:37.639Z'
+dateModified: '2016-03-22T22:27:53.145Z'
+title: "Welcome to Summerhill Farm - a summer tradition for 30\nyears.\_ Experience the charm of\_ our eight specialty shops and\ndiscover our distinctive clothing, unique home accessories, specialty food and\ntoys.\_ Let us help you find the perfect gift for you or a friend. It's a\nfun day out with family and friends!"
 author: []
 sourcePath: _posts/2016-03-22-summerhill-farm.md
 published: true
@@ -24,7 +26,7 @@ _type: Blurb
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7eb22788-29fd-4fcc-adaf-1066ca4ed4ad.jpg)
 
-Welcome to Summerhill Farm - a summer tradition for 30
+# Welcome to Summerhill Farm - a summer tradition for 30
 years.  Experience the charm of  our eight specialty shops and
 discover our distinctive clothing, unique home accessories, specialty food and
 toys.  Let us help you find the perfect gift for you or a friend. It's a
