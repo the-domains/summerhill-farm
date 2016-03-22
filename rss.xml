@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Summerhill Farm]]></title>
         <description><![CDATA[Summerhill Farm]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/summerhill-farm/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Mar 2016 22:18:28 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 22 Mar 2016 22:20:12 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/summerhill-farm/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>undefined</p>]]></description>
-            <link>undefinedundefined/index.html</link>
+            <description><![CDATA[<p>The StableThe Stable is the place to find unique North Woods decorative items.  Discover our pottery, candles, calendars, stationery, throws, occasional furniture and ever-popular rug assortment, perfect for accessorizing your home or cabin. </p>]]></description>
+            <link>https://thegrid.ai/summerhill-farm/undefined/index.html</link>
             <guid isPermaLink="false">c9a43fda-373b-4c65-9086-091266ab643b</guid>
-            <pubDate>Tue, 22 Mar 2016 22:18:27 GMT</pubDate>
+            <pubDate>Tue, 22 Mar 2016 22:19:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
