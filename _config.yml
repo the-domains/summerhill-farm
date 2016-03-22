@@ -1,0 +1,28 @@
+name: Summerhill Farm
+favicon: null
+layout_spectrum: 0.29219013825058937
+typography_spectrum: 0.11086036055348814
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.7978922757320106
+  lightness: 0.844394356245175
+  saturation: 0.5868825556244701
+  rhythmicContrast: 0.4675027278717607
+purpose: []
