@@ -3,11 +3,11 @@ inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: The shops of Summerhill
-datePublished: '2016-03-23T14:33:48.839Z'
-dateModified: '2016-03-23T14:33:39.177Z'
+datePublished: '2016-03-23T14:55:45.519Z'
+dateModified: '2016-03-23T14:54:58.791Z'
 title: The Shops
 author: []
 sourcePath: _posts/2016-03-22-undefined.md
