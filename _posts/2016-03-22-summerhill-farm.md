@@ -9,8 +9,8 @@ keywords: []
 description: |-
   Don't forget to take a break in the Sun Porch for lunch,
   dessert treat, or a relaxing glass of wine on the scenic gazebo.
-datePublished: '2016-03-23T13:38:07.382Z'
-dateModified: '2016-03-23T13:37:44.639Z'
+datePublished: '2016-03-23T14:52:53.281Z'
+dateModified: '2016-03-23T14:28:40.032Z'
 title: 'Welcome to Summerhill Farm '
 author: []
 sourcePath: _posts/2016-03-22-summerhill-farm.md
