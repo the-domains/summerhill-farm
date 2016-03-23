@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: The shops of Summerhill
-datePublished: '2016-03-23T14:12:58.133Z'
-dateModified: '2016-03-23T14:11:42.710Z'
+datePublished: '2016-03-23T14:21:59.893Z'
+dateModified: '2016-03-23T14:21:52.656Z'
 title: The Shops
 author: []
 sourcePath: _posts/2016-03-22-undefined.md
@@ -27,6 +27,7 @@ _type: Blurb
 ****
 
 ****
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a1a45e08-cf55-4ef5-9e3a-e906b3b49233.jpg)
 
 The Stable is the place to find unique North Woods decorative items.  Discover our pottery, candles, calendars, stationery, throws, occasional furniture and ever-popular rug assortment, perfect for accessorizing your home or cabin.  
 **The Treehouse**  
