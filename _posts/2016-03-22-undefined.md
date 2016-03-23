@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: The shops of Summerhill
-datePublished: '2016-03-23T14:57:28.376Z'
-dateModified: '2016-03-23T14:57:06.592Z'
+datePublished: '2016-03-23T14:59:08.163Z'
+dateModified: '2016-03-23T14:57:32.112Z'
 title: The Shops
 author: []
 sourcePath: _posts/2016-03-22-undefined.md
@@ -38,6 +38,7 @@ The original old barn houses greeting cards, unique pottery, colorful silk flowe
 
 **Cottage**  
 In the Cottage you'll find unusual home accessories, whimsical gifts, books, garden accessories, pet paraphernalia and unique bedding.  Don't miss our extensive selection of Life is Good merchandise!
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/58974423-0581-4374-8a9b-b8fa9b7638cc.jpg)
 
 **2nd Story**  
 The 2nd Story is jam-packed with an amazing variety of fun and colorful tees, sweatshirts, casual sandals and jewelry.  We have something for everyone, to help keep special summer memories close throughout the year.
@@ -46,4 +47,3 @@ The 2nd Story is jam-packed with an amazing variety of fun and colorful tees, sw
 
 **Summerhill Cellar**  
 The Summerhill Cellar is our newest shop, tucked in with the Carriage House.  The wines in the Sun Porch Restaurant were so popular, we added this shop to sell them, and handpicked even more unique wines for every occasion.  Enjoy our monthly wine tastings and become a member of the Summerhill Cellar Wine Club! Pick up a bottle of spirits to go with our specialty drink mixes.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/58974423-0581-4374-8a9b-b8fa9b7638cc.jpg)
