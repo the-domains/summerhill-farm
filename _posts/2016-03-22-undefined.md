@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "The Stable is the place to find unique North Woods decorative items.\_ Discover our pottery, candles, calendars, stationery, throws, occasional furniture and ever-popular rug assortment, perfect for accessorizing your home or cabin."
-datePublished: '2016-03-23T14:06:24.915Z'
-dateModified: '2016-03-23T14:04:49.756Z'
+datePublished: '2016-03-23T14:07:36.108Z'
+dateModified: '2016-03-23T14:06:33.613Z'
 title: The Shops
 author: []
 sourcePath: _posts/2016-03-22-undefined.md
