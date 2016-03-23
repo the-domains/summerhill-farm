@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: The shops of Summerhill
-datePublished: '2016-03-23T15:01:37.681Z'
-dateModified: '2016-03-23T15:01:05.533Z'
+datePublished: '2016-03-23T15:06:35.773Z'
+dateModified: '2016-03-23T15:01:46.356Z'
 title: The Shops
 author: []
 sourcePath: _posts/2016-03-22-undefined.md
