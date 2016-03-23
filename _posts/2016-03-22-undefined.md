@@ -1,14 +1,14 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: "The TreehouseNestled in the trees, the Treehouse carries a distinctive collection of both casual and more sophisticated women's apparel and accessories.\_From something for the beach to an outfit for a wedding or graduation, we can help you find the outfit that will make you look and feel great!\_\_ A limited selection of plus size clothing now available."
-datePublished: '2016-03-22T22:35:37.959Z'
-dateModified: '2016-03-22T22:35:07.336Z'
-title: ''
+description: "The Stable is the place to find unique North Woods decorative items.\_ Discover our pottery, candles, calendars, stationery, throws, occasional furniture and ever-popular rug assortment, perfect for accessorizing your home or cabin."
+datePublished: '2016-03-23T13:39:01.308Z'
+dateModified: '2016-03-23T13:39:00.863Z'
+title: The Shops
 author: []
 sourcePath: _posts/2016-03-22-undefined.md
 published: true
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: undefined/index.html
-_type: Blurb
+_type: Article
 
 ---
 ****
