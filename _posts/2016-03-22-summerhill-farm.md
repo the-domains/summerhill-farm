@@ -9,8 +9,8 @@ keywords: []
 description: |-
   Don't forget to take a break in the Sun Porch for lunch,
   dessert treat, or a relaxing glass of wine on the scenic gazebo.
-datePublished: '2016-03-22T22:39:31.685Z'
-dateModified: '2016-03-22T22:39:24.359Z'
+datePublished: '2016-03-23T13:35:42.494Z'
+dateModified: '2016-03-23T13:35:15.618Z'
 title: "Welcome to Summerhill Farm - a summer tradition for 30\nyears.\_ Experience the charm of\_ our eight specialty shops and\ndiscover our distinctive clothing, unique home accessories, specialty food and\ntoys.\_ Let us help you find the perfect gift for you or a friend. It's a\nfun day out with family and friends!"
 author: []
 sourcePath: _posts/2016-03-22-summerhill-farm.md
