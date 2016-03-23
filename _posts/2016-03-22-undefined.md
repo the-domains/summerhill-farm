@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: The shops of Summerhill
-datePublished: '2016-03-23T14:21:59.893Z'
-dateModified: '2016-03-23T14:21:52.656Z'
+datePublished: '2016-03-23T14:29:40.723Z'
+dateModified: '2016-03-23T14:29:30.742Z'
 title: The Shops
 author: []
 sourcePath: _posts/2016-03-22-undefined.md
@@ -45,3 +45,5 @@ The 2nd Story is jam-packed with an amazing variety of fun and colorful tees, sw
 
 **Summerhill Cellar**  
 The Summerhill Cellar is our newest shop, tucked in with the Carriage House.  The wines in the Sun Porch Restaurant were so popular, we added this shop to sell them, and handpicked even more unique wines for every occasion.  Enjoy our monthly wine tastings and become a member of the Summerhill Cellar Wine Club! Pick up a bottle of spirits to go with our specialty drink mixes.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/35ca9e66-7330-4986-8e29-de2076a005cb.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4775fbcd-84b3-4280-9f03-e3b39416a868.jpg)
