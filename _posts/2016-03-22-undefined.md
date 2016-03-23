@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: The shops of Summerhill
-datePublished: '2016-03-23T14:59:08.163Z'
-dateModified: '2016-03-23T14:57:32.112Z'
+datePublished: '2016-03-23T15:01:37.681Z'
+dateModified: '2016-03-23T15:01:05.533Z'
 title: The Shops
 author: []
 sourcePath: _posts/2016-03-22-undefined.md
@@ -27,14 +27,14 @@ _type: Blurb
 ****
 
 ****
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a1a45e08-cf55-4ef5-9e3a-e906b3b49233.jpg)
+![The Stable](https://s3-us-west-2.amazonaws.com/the-grid-img/p/42590a1f3da0d3494247be7980c649ba34bfc73a.jpg)
+![The Treehouse](https://s3-us-west-2.amazonaws.com/the-grid-img/p/dd1d37f34f3cb7379de66ef1cb38c848c005ae6b.jpg)
 
 The Stable is the place to find unique North Woods decorative items.  Discover our pottery, candles, calendars, stationery, throws, occasional furniture and ever-popular rug assortment, perfect for accessorizing your home or cabin.  
 **The Treehouse**  
 Nestled in the trees, the Treehouse carries a distinctive collection of both casual and more sophisticated women's apparel and accessories. From something for the beach to an outfit for a wedding or graduation, we can help you find the outfit that will make you look and feel great!   A limited selection of plus size clothing now available.  
 **The Barn**  
 The original old barn houses greeting cards, unique pottery, colorful silk flowers, luxurious throws, wall art, books, unusual occasional furniture pieces and many other decorative home accessories.
-![The Treehouse](https://s3-us-west-2.amazonaws.com/the-grid-img/p/dd1d37f34f3cb7379de66ef1cb38c848c005ae6b.jpg)
 
 **Cottage**  
 In the Cottage you'll find unusual home accessories, whimsical gifts, books, garden accessories, pet paraphernalia and unique bedding.  Don't miss our extensive selection of Life is Good merchandise!
