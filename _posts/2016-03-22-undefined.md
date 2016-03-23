@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: "The Stable is the place to find unique North Woods decorative items.\_ Discover our pottery, candles, calendars, stationery, throws, occasional furniture and ever-popular rug assortment, perfect for accessorizing your home or cabin."
-datePublished: '2016-03-23T13:39:01.308Z'
-dateModified: '2016-03-23T13:39:00.863Z'
+datePublished: '2016-03-23T13:50:25.299Z'
+dateModified: '2016-03-23T13:49:48.893Z'
 title: The Shops
 author: []
 sourcePath: _posts/2016-03-22-undefined.md
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: undefined/index.html
-_type: Article
+_type: Blurb
 
 ---
 ****
@@ -28,11 +28,9 @@ _type: Article
 
 ****
 
-The Stable is the place to find unique North Woods decorative items.  Discover our pottery, candles, calendars, stationery, throws, occasional furniture and ever-popular rug assortment, perfect for accessorizing your home or cabin.
-
+The Stable is the place to find unique North Woods decorative items.  Discover our pottery, candles, calendars, stationery, throws, occasional furniture and ever-popular rug assortment, perfect for accessorizing your home or cabin.  
 **The Treehouse**  
-Nestled in the trees, the Treehouse carries a distinctive collection of both casual and more sophisticated women's apparel and accessories. From something for the beach to an outfit for a wedding or graduation, we can help you find the outfit that will make you look and feel great!   A limited selection of plus size clothing now available.
-
+Nestled in the trees, the Treehouse carries a distinctive collection of both casual and more sophisticated women's apparel and accessories. From something for the beach to an outfit for a wedding or graduation, we can help you find the outfit that will make you look and feel great!   A limited selection of plus size clothing now available.  
 **The Barn**  
 The original old barn houses greeting cards, unique pottery, colorful silk flowers, luxurious throws, wall art, books, unusual occasional furniture pieces and many other decorative home accessories.
 
