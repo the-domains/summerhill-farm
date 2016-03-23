@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: The shops of Summerhill
-datePublished: '2016-03-23T14:29:40.723Z'
-dateModified: '2016-03-23T14:29:30.742Z'
+datePublished: '2016-03-23T14:33:48.839Z'
+dateModified: '2016-03-23T14:33:39.177Z'
 title: The Shops
 author: []
 sourcePath: _posts/2016-03-22-undefined.md
@@ -34,6 +34,7 @@ The Stable is the place to find unique North Woods decorative items.  Discover o
 Nestled in the trees, the Treehouse carries a distinctive collection of both casual and more sophisticated women's apparel and accessories. From something for the beach to an outfit for a wedding or graduation, we can help you find the outfit that will make you look and feel great!   A limited selection of plus size clothing now available.  
 **The Barn**  
 The original old barn houses greeting cards, unique pottery, colorful silk flowers, luxurious throws, wall art, books, unusual occasional furniture pieces and many other decorative home accessories.
+![The Treehouse](https://s3-us-west-2.amazonaws.com/the-grid-img/p/dd1d37f34f3cb7379de66ef1cb38c848c005ae6b.jpg)
 
 **Cottage**  
 In the Cottage you'll find unusual home accessories, whimsical gifts, books, garden accessories, pet paraphernalia and unique bedding.  Don't miss our extensive selection of Life is Good merchandise!
@@ -45,5 +46,4 @@ The 2nd Story is jam-packed with an amazing variety of fun and colorful tees, sw
 
 **Summerhill Cellar**  
 The Summerhill Cellar is our newest shop, tucked in with the Carriage House.  The wines in the Sun Porch Restaurant were so popular, we added this shop to sell them, and handpicked even more unique wines for every occasion.  Enjoy our monthly wine tastings and become a member of the Summerhill Cellar Wine Club! Pick up a bottle of spirits to go with our specialty drink mixes.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/35ca9e66-7330-4986-8e29-de2076a005cb.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4775fbcd-84b3-4280-9f03-e3b39416a868.jpg)
